@@ -1,0 +1,16 @@
+.pageTitle {
+    min-height: 50px;
+    background-color: white;
+    color: white;
+    padding-top: 60px;
+    align-items: center;
+    font-size: 2.8vw;
+  }
+
+.trending{
+min-height: 50vh;
+background-color: black;
+color: black;
+padding-top: 70px;
+}
+
